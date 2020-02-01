@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.74
+## (2020-02-01)
+
+* Etcher pro leds feature [Alexis Svinartchouk]
+* Sort devices by device path on Linux [Alexis Svinartchouk]
+
 # v1.5.73
 ## (2020-01-28)
 
